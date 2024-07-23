@@ -1,0 +1,35 @@
+- Linux Kernel based
+  - Debian GNU/Linux
+  - Rocky GNU/Linux
+  - Android
+    - Bliss OS
+    - Lineage OS
+- GNU/Hurd
+  - Debian GNU/Hurd
+- Helen OS
+- Temple OS (Finished)
+- Darwin
+  - PureDarwin
+- MenuetOS (32-bit)
+  - Kolibri OS (Finished)
+- AmigaOS-like
+  - AROS (A series of distributions)
+    - ApolloOS
+- RISC OS
+- MINIX
+- illumos (Solaris-like)
+  - OmniOS
+  - OpenIndiana
+  - Tribblix
+- Haiku
+- Plan9
+  - Inferno
+- BSD
+  - FreeBSD
+  - OpenBSD
+  - NetBSD
+- DOS
+  - FreeDOS
+- ReactOS
+- Redox OS
+- SerenityOS
