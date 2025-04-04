@@ -33,3 +33,9 @@
 - ReactOS
 - Redox OS
 - SerenityOS
+- ToaruOS
+- RTOS (Real-time operating system)
+  - FreeRTOS
+  - Apache NuttX
+- Collapse OS
+- Visopsys
